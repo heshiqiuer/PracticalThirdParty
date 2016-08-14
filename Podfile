@@ -17,4 +17,6 @@ target 'PracticalThirdParty' do
   pod 'LCLoadingHUD'
   pod 'RHLoadingView'
   pod 'SVProgressHUD'
+  pod 'SCLAlertView-Objective-C'
+  pod 'pop'
 end

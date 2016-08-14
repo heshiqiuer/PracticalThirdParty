@@ -92,9 +92,11 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/Masonry/Masonry.framework"
   install_framework "$BUILT_PRODUCTS_DIR/RHLoadingView/RHLoadingView.framework"
   install_framework "$BUILT_PRODUCTS_DIR/Reachability/Reachability.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/SCLAlertView-Objective-C/SCLAlertView_Objective_C.framework"
   install_framework "$BUILT_PRODUCTS_DIR/SDWebImage/SDWebImage.framework"
   install_framework "$BUILT_PRODUCTS_DIR/SVProgressHUD/SVProgressHUD.framework"
   install_framework "$BUILT_PRODUCTS_DIR/ZYCornerRadius/ZYCornerRadius.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/pop/pop.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/DZNEmptyDataSet/DZNEmptyDataSet.framework"
@@ -105,7 +107,9 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/Masonry/Masonry.framework"
   install_framework "$BUILT_PRODUCTS_DIR/RHLoadingView/RHLoadingView.framework"
   install_framework "$BUILT_PRODUCTS_DIR/Reachability/Reachability.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/SCLAlertView-Objective-C/SCLAlertView_Objective_C.framework"
   install_framework "$BUILT_PRODUCTS_DIR/SDWebImage/SDWebImage.framework"
   install_framework "$BUILT_PRODUCTS_DIR/SVProgressHUD/SVProgressHUD.framework"
   install_framework "$BUILT_PRODUCTS_DIR/ZYCornerRadius/ZYCornerRadius.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/pop/pop.framework"
 fi

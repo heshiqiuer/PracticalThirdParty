@@ -5,6 +5,7 @@ PODS:
   - LCLoadingHUD (1.0.6)
   - Masonry (0.6.4)
   - MJExtension (3.0.10)
+  - pop (1.0.9)
   - Reachability (3.2)
   - RHLoadingView (1.0.2):
     - RHLoadingView/Indicator (= 1.0.2)
@@ -13,6 +14,7 @@ PODS:
   - RHLoadingView/Loading (1.0.2):
     - Masonry (~> 0.6.1)
     - RHLoadingView/Indicator
+  - SCLAlertView-Objective-C (1.0.3)
   - SDWebImage (3.7.6):
     - SDWebImage/Core (= 3.7.6)
   - SDWebImage/Core (3.7.6)
@@ -25,8 +27,10 @@ DEPENDENCIES:
   - HexColors
   - LCLoadingHUD
   - MJExtension
+  - pop
   - Reachability
   - RHLoadingView
+  - SCLAlertView-Objective-C
   - SDWebImage
   - SVProgressHUD
   - ZYCornerRadius
@@ -38,12 +42,14 @@ SPEC CHECKSUMS:
   LCLoadingHUD: 8b20d4c10d47c3d4a64978cb966532788c183588
   Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
   MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
   RHLoadingView: 87ba0fc0a23c12173d25df6def4f3247cc51ba3d
+  SCLAlertView-Objective-C: e83376218b431109dc5403adc63f8e9787db7b74
   SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
   SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
   ZYCornerRadius: 99f66312b00927208a80592dabf96635f9acb520
 
-PODFILE CHECKSUM: 673f48ffea818a878a38e8b8f4e9420bca1b9bac
+PODFILE CHECKSUM: f5ec1827c1b85cc7b9d49799aef6cc24842a9545
 
 COCOAPODS: 1.0.0

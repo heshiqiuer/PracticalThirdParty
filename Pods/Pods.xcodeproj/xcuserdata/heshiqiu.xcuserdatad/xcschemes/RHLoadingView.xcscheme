@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '4993C1E8ACEAFA69777C0188766AF86B'
+               BlueprintIdentifier = 'DBC7B53B5B0D844597D9B3804F27949E'
                BlueprintName = 'RHLoadingView'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'RHLoadingView.framework'>
