@@ -1,6 +1,7 @@
 PODS:
   - DZNEmptyDataSet (1.8.1)
   - FrameAccessor (2.0)
+  - HexColors (4.0.0)
   - MJExtension (3.0.10)
   - Reachability (3.2)
   - SDWebImage (3.7.6):
@@ -11,6 +12,7 @@ PODS:
 DEPENDENCIES:
   - DZNEmptyDataSet
   - FrameAccessor
+  - HexColors
   - MJExtension
   - Reachability
   - SDWebImage
@@ -19,11 +21,12 @@ DEPENDENCIES:
 SPEC CHECKSUMS:
   DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
   FrameAccessor: 443a13e58e23a10ff22180da0897b28c3f6abf66
+  HexColors: 5f95843ef89aff6a72e1fd3a8ebabf205cc43379
   MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
   SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
   ZYCornerRadius: 99f66312b00927208a80592dabf96635f9acb520
 
-PODFILE CHECKSUM: 0f4ca756f95dce26428a6b3e6b49ebf9e57a4599
+PODFILE CHECKSUM: 13ab3244411417bf0c241c9d2595740924c8219b
 
 COCOAPODS: 1.0.0
