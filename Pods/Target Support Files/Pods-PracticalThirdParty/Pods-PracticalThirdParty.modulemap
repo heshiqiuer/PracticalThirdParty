@@ -1,0 +1,6 @@
+framework module Pods_PracticalThirdParty {
+  umbrella header "Pods-PracticalThirdParty-umbrella.h"
+
+  export *
+  module * { export * }
+}
