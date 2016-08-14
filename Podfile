@@ -14,4 +14,7 @@ target 'PracticalThirdParty' do
   pod 'SDWebImage'
   pod 'FrameAccessor'
   pod 'HexColors'
+  pod 'LCLoadingHUD'
+  pod 'RHLoadingView'
+  pod 'SVProgressHUD'
 end

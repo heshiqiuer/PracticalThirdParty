@@ -19,12 +19,27 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>LCLoadingHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>MJExtension.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Masonry.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-PracticalThirdParty.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RHLoadingView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -39,6 +54,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SVProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>ZYCornerRadius.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -47,17 +67,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>02B03F6D0B05E300A599AD9FD8F9129D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>16FB872D0D2D4BA0F378AB34D47CF95F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>549FB45B99D212D3DCA174CB574F4467</key>
+		<key>4993C1E8ACEAFA69777C0188766AF86B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5BC0D8332D200681DD6CF280B66494E8</key>
+		<key>63DD6B4DFF119A05A9CF764E672FD2BA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -67,7 +92,27 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>79343BD369A7B854182ECD2B37B3D17F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>7C0126D717EB28DC6DB2EEA2E20B5172</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7C86CA8CEDC1033D3F49FD25B7B97988</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9FB96F33FDD6F26684E78F39A1A82F88</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A9A83F63385AA43314397B8DD375464B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -77,12 +122,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F5A3128AFDAC1DADD0577812BBC72FE8</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F66CBD654769AF24D66591914BD15E25</key>
+		<key>D58C2A70AFBDAF605D3FFAEBCE766463</key>
 		<dict>
 			<key>primary</key>
 			<true/>
