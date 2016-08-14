@@ -19,6 +19,7 @@ PODS:
     - SDWebImage/Core (= 3.7.6)
   - SDWebImage/Core (3.7.6)
   - SVProgressHUD (2.0.3)
+  - Toast (3.0)
   - ZYCornerRadius (0.9.1)
 
 DEPENDENCIES:
@@ -33,6 +34,7 @@ DEPENDENCIES:
   - SCLAlertView-Objective-C
   - SDWebImage
   - SVProgressHUD
+  - Toast
   - ZYCornerRadius
 
 SPEC CHECKSUMS:
@@ -48,8 +50,9 @@ SPEC CHECKSUMS:
   SCLAlertView-Objective-C: e83376218b431109dc5403adc63f8e9787db7b74
   SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
   SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  Toast: 32c59229abfcf41850162b83bb9259dc84372473
   ZYCornerRadius: 99f66312b00927208a80592dabf96635f9acb520
 
-PODFILE CHECKSUM: f5ec1827c1b85cc7b9d49799aef6cc24842a9545
+PODFILE CHECKSUM: 1a4cee7320abd06a5fd698cc70b98c4940cab1af
 
 COCOAPODS: 1.0.0

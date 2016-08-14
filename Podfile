@@ -19,4 +19,5 @@ target 'PracticalThirdParty' do
   pod 'SVProgressHUD'
   pod 'SCLAlertView-Objective-C'
   pod 'pop'
+  pod 'Toast'
 end
