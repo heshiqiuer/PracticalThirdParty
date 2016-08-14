@@ -3,17 +3,10 @@ PODS:
   - FrameAccessor (2.0)
   - HexColors (4.0.0)
   - LCLoadingHUD (1.0.6)
-  - Masonry (0.6.4)
+  - Masonry (1.0.0)
   - MJExtension (3.0.10)
   - pop (1.0.9)
   - Reachability (3.2)
-  - RHLoadingView (1.0.2):
-    - RHLoadingView/Indicator (= 1.0.2)
-    - RHLoadingView/Loading (= 1.0.2)
-  - RHLoadingView/Indicator (1.0.2)
-  - RHLoadingView/Loading (1.0.2):
-    - Masonry (~> 0.6.1)
-    - RHLoadingView/Indicator
   - SCLAlertView-Objective-C (1.0.3)
   - SDWebImage (3.7.6):
     - SDWebImage/Core (= 3.7.6)
@@ -27,10 +20,10 @@ DEPENDENCIES:
   - FrameAccessor
   - HexColors
   - LCLoadingHUD
+  - Masonry
   - MJExtension
   - pop
   - Reachability
-  - RHLoadingView
   - SCLAlertView-Objective-C
   - SDWebImage
   - SVProgressHUD
@@ -42,17 +35,16 @@ SPEC CHECKSUMS:
   FrameAccessor: 443a13e58e23a10ff22180da0897b28c3f6abf66
   HexColors: 5f95843ef89aff6a72e1fd3a8ebabf205cc43379
   LCLoadingHUD: 8b20d4c10d47c3d4a64978cb966532788c183588
-  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
   MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
   pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
-  RHLoadingView: 87ba0fc0a23c12173d25df6def4f3247cc51ba3d
   SCLAlertView-Objective-C: e83376218b431109dc5403adc63f8e9787db7b74
   SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
   SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
   Toast: 32c59229abfcf41850162b83bb9259dc84372473
   ZYCornerRadius: 99f66312b00927208a80592dabf96635f9acb520
 
-PODFILE CHECKSUM: 1a4cee7320abd06a5fd698cc70b98c4940cab1af
+PODFILE CHECKSUM: 363f63ebec8095d2cadf827ef9d0446a2ef54926
 
 COCOAPODS: 1.0.0

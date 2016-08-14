@@ -15,7 +15,7 @@ target 'PracticalThirdParty' do
   pod 'FrameAccessor'
   pod 'HexColors'
   pod 'LCLoadingHUD'
-  pod 'RHLoadingView'
+  pod 'Masonry'
   pod 'SVProgressHUD'
   pod 'SCLAlertView-Objective-C'
   pod 'pop'
