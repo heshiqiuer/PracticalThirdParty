@@ -10,4 +10,5 @@ target 'PracticalThirdParty' do
   pod 'DZNEmptyDataSet'
   pod 'ZYCornerRadius'
   pod 'Reachability'
+  pod 'MJExtension'
 end

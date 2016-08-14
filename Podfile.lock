@@ -1,18 +1,21 @@
 PODS:
   - DZNEmptyDataSet (1.8.1)
+  - MJExtension (3.0.10)
   - Reachability (3.2)
   - ZYCornerRadius (0.9.1)
 
 DEPENDENCIES:
   - DZNEmptyDataSet
+  - MJExtension
   - Reachability
   - ZYCornerRadius
 
 SPEC CHECKSUMS:
   DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
   ZYCornerRadius: 99f66312b00927208a80592dabf96635f9acb520
 
-PODFILE CHECKSUM: 307fbfea873fb5cddcce715e845e768524d46fb2
+PODFILE CHECKSUM: 06218334350d4eff284b78c14bbd1818234607f5
 
 COCOAPODS: 1.0.0
