@@ -11,4 +11,5 @@ target 'PracticalThirdParty' do
   pod 'ZYCornerRadius'
   pod 'Reachability'
   pod 'MJExtension'
+  pod 'SDWebImage'
 end
