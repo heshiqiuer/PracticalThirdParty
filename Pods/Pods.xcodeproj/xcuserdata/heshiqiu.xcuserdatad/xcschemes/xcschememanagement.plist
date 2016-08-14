@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>FrameAccessor.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>MJExtension.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -42,17 +47,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>23A0BB4262CF9D5237F6A06EE9DD32ED</key>
+		<key>22B3C38D1156C321E09DD6048979ED81</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5F52502C92888E7950C8E2B8938012D5</key>
+		<key>51AD45EC7E1F04E60AECE86EE9C584A7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6BB442A1B96F0C8DA92BD20F57E61433</key>
+		<key>738FFB5A0A7C642A6657EA5241C1FB7E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -62,7 +67,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>887905775AD146BA36F3E2D183B9AEE8</key>
+		<key>8A90CF950635A7FF86891645963A7A21</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3C04EBC11571DC54A4EB0D60982F192</key>
 		<dict>
 			<key>primary</key>
 			<true/>

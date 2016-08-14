@@ -12,4 +12,5 @@ target 'PracticalThirdParty' do
   pod 'Reachability'
   pod 'MJExtension'
   pod 'SDWebImage'
+  pod 'FrameAccessor'
 end
