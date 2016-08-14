@@ -13,4 +13,5 @@ target 'PracticalThirdParty' do
   pod 'MJExtension'
   pod 'SDWebImage'
   pod 'FrameAccessor'
+  pod 'HexColors'
 end
