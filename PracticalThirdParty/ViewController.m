@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "UIViewController+SLExtension.h"
 @interface ViewController ()
 
 @end
@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    [self showGifLoding:@[[UIImage imageNamed:@"hold1_60x72_"],[UIImage imageNamed:@"hold2_60x72_"],[UIImage imageNamed:@"hold3_60x72_"]] inView:self.view];
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
