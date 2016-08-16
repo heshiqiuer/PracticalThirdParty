@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		3D2E321765E50D819FB33335 /* Pods_PracticalThirdParty.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6B497145F109C9A081B4502 /* Pods_PracticalThirdParty.framework */; };
+		4E33DEB31D62CB5700F1496B /* UIImage+ALinExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E33DEB21D62CB5700F1496B /* UIImage+ALinExtension.m */; };
+		4E33DEB71D62CBC200F1496B /* UIImageView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E33DEB61D62CBC200F1496B /* UIImageView+Extension.m */; };
+		4E33DEBB1D62CC2600F1496B /* UIViewController+SLExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E33DEBA1D62CC2600F1496B /* UIViewController+SLExtension.m */; };
+		4E33DEBF1D62CDA700F1496B /* UIView+SLExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E33DEBE1D62CDA700F1496B /* UIView+SLExtension.m */; };
 		4EF689931D6044C200B22967 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EF689921D6044C200B22967 /* main.m */; };
 		4EF689961D6044C200B22967 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EF689951D6044C200B22967 /* AppDelegate.m */; };
 		4EF689991D6044C200B22967 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EF689981D6044C200B22967 /* ViewController.m */; };
@@ -18,6 +22,14 @@
 
 /* Begin PBXFileReference section */
 		000F90BF6EA5E6E1A4782D44 /* Pods-PracticalThirdParty.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PracticalThirdParty.release.xcconfig"; path = "Pods/Target Support Files/Pods-PracticalThirdParty/Pods-PracticalThirdParty.release.xcconfig"; sourceTree = "<group>"; };
+		4E33DEB11D62CB5700F1496B /* UIImage+ALinExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ALinExtension.h"; sourceTree = "<group>"; };
+		4E33DEB21D62CB5700F1496B /* UIImage+ALinExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ALinExtension.m"; sourceTree = "<group>"; };
+		4E33DEB51D62CBC200F1496B /* UIImageView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+Extension.h"; sourceTree = "<group>"; };
+		4E33DEB61D62CBC200F1496B /* UIImageView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+Extension.m"; sourceTree = "<group>"; };
+		4E33DEB91D62CC2600F1496B /* UIViewController+SLExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+SLExtension.h"; sourceTree = "<group>"; };
+		4E33DEBA1D62CC2600F1496B /* UIViewController+SLExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+SLExtension.m"; sourceTree = "<group>"; };
+		4E33DEBD1D62CDA700F1496B /* UIView+SLExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SLExtension.h"; sourceTree = "<group>"; };
+		4E33DEBE1D62CDA700F1496B /* UIView+SLExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SLExtension.m"; sourceTree = "<group>"; };
 		4EF6898E1D6044C200B22967 /* PracticalThirdParty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticalThirdParty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EF689921D6044C200B22967 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4EF689941D6044C200B22967 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -44,6 +56,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4E33DEAF1D62CA7F00F1496B /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				4E33DEBC1D62CD9A00F1496B /* View */,
+				4E33DEB81D62CC1B00F1496B /* ViewController */,
+				4E33DEB41D62CBB500F1496B /* UIImageView */,
+				4E33DEB01D62CB4A00F1496B /* UIImage */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		4E33DEB01D62CB4A00F1496B /* UIImage */ = {
+			isa = PBXGroup;
+			children = (
+				4E33DEB11D62CB5700F1496B /* UIImage+ALinExtension.h */,
+				4E33DEB21D62CB5700F1496B /* UIImage+ALinExtension.m */,
+			);
+			path = UIImage;
+			sourceTree = "<group>";
+		};
+		4E33DEB41D62CBB500F1496B /* UIImageView */ = {
+			isa = PBXGroup;
+			children = (
+				4E33DEB51D62CBC200F1496B /* UIImageView+Extension.h */,
+				4E33DEB61D62CBC200F1496B /* UIImageView+Extension.m */,
+			);
+			path = UIImageView;
+			sourceTree = "<group>";
+		};
+		4E33DEB81D62CC1B00F1496B /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				4E33DEB91D62CC2600F1496B /* UIViewController+SLExtension.h */,
+				4E33DEBA1D62CC2600F1496B /* UIViewController+SLExtension.m */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		4E33DEBC1D62CD9A00F1496B /* View */ = {
+			isa = PBXGroup;
+			children = (
+				4E33DEBD1D62CDA700F1496B /* UIView+SLExtension.h */,
+				4E33DEBE1D62CDA700F1496B /* UIView+SLExtension.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		4EF689851D6044C200B22967 = {
 			isa = PBXGroup;
 			children = (
@@ -65,6 +124,7 @@
 		4EF689901D6044C200B22967 /* PracticalThirdParty */ = {
 			isa = PBXGroup;
 			children = (
+				4E33DEAF1D62CA7F00F1496B /* Tools */,
 				4EF689941D6044C200B22967 /* AppDelegate.h */,
 				4EF689951D6044C200B22967 /* AppDelegate.m */,
 				4EF689971D6044C200B22967 /* ViewController.h */,
@@ -228,6 +288,10 @@
 				4EF689991D6044C200B22967 /* ViewController.m in Sources */,
 				4EF689961D6044C200B22967 /* AppDelegate.m in Sources */,
 				4EF689931D6044C200B22967 /* main.m in Sources */,
+				4E33DEBB1D62CC2600F1496B /* UIViewController+SLExtension.m in Sources */,
+				4E33DEB31D62CB5700F1496B /* UIImage+ALinExtension.m in Sources */,
+				4E33DEBF1D62CDA700F1496B /* UIView+SLExtension.m in Sources */,
+				4E33DEB71D62CBC200F1496B /* UIImageView+Extension.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
