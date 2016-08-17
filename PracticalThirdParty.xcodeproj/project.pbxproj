@@ -18,6 +18,7 @@
 		4EF6899C1D6044C200B22967 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EF6899A1D6044C200B22967 /* Main.storyboard */; };
 		4EF6899E1D6044C200B22967 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EF6899D1D6044C200B22967 /* Assets.xcassets */; };
 		4EF689A11D6044C200B22967 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EF6899F1D6044C200B22967 /* LaunchScreen.storyboard */; };
+		4EF9FD741D64261B00BBD564 /* XRCarouselView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EF9FD731D64261B00BBD564 /* XRCarouselView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,8 @@
 		4EF6899D1D6044C200B22967 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EF689A01D6044C200B22967 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4EF689A21D6044C200B22967 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EF9FD721D64261B00BBD564 /* XRCarouselView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XRCarouselView.h; sourceTree = "<group>"; };
+		4EF9FD731D64261B00BBD564 /* XRCarouselView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XRCarouselView.m; sourceTree = "<group>"; };
 		5698B0B416F3EF676B707297 /* Pods-PracticalThirdParty.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PracticalThirdParty.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PracticalThirdParty/Pods-PracticalThirdParty.debug.xcconfig"; sourceTree = "<group>"; };
 		C6B497145F109C9A081B4502 /* Pods_PracticalThirdParty.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PracticalThirdParty.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -97,6 +100,7 @@
 		4E33DEBC1D62CD9A00F1496B /* View */ = {
 			isa = PBXGroup;
 			children = (
+				4EF9FD711D64260D00BBD564 /* XRCarouselView */,
 				4E33DEBD1D62CDA700F1496B /* UIView+SLExtension.h */,
 				4E33DEBE1D62CDA700F1496B /* UIView+SLExtension.m */,
 			);
@@ -144,6 +148,15 @@
 				4EF689921D6044C200B22967 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4EF9FD711D64260D00BBD564 /* XRCarouselView */ = {
+			isa = PBXGroup;
+			children = (
+				4EF9FD721D64261B00BBD564 /* XRCarouselView.h */,
+				4EF9FD731D64261B00BBD564 /* XRCarouselView.m */,
+			);
+			path = XRCarouselView;
 			sourceTree = "<group>";
 		};
 		782277558D3D3E9300810316 /* Frameworks */ = {
@@ -291,6 +304,7 @@
 				4E33DEBB1D62CC2600F1496B /* UIViewController+SLExtension.m in Sources */,
 				4E33DEB31D62CB5700F1496B /* UIImage+ALinExtension.m in Sources */,
 				4E33DEBF1D62CDA700F1496B /* UIView+SLExtension.m in Sources */,
+				4EF9FD741D64261B00BBD564 /* XRCarouselView.m in Sources */,
 				4E33DEB71D62CBC200F1496B /* UIImageView+Extension.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
