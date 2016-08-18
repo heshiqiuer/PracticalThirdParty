@@ -20,4 +20,5 @@ target 'PracticalThirdParty' do
   pod 'SCLAlertView-Objective-C'
   pod 'pop'
   pod 'Toast'
+  pod 'APAddressBook'
 end

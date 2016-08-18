@@ -1,4 +1,7 @@
 PODS:
+  - APAddressBook (0.2.3):
+    - APAddressBook/Core (= 0.2.3)
+  - APAddressBook/Core (0.2.3)
   - DZNEmptyDataSet (1.8.1)
   - FrameAccessor (2.0)
   - HexColors (4.0.0)
@@ -16,6 +19,7 @@ PODS:
   - ZYCornerRadius (0.9.1)
 
 DEPENDENCIES:
+  - APAddressBook
   - DZNEmptyDataSet
   - FrameAccessor
   - HexColors
@@ -31,6 +35,7 @@ DEPENDENCIES:
   - ZYCornerRadius
 
 SPEC CHECKSUMS:
+  APAddressBook: 2a91bf05999548bea210ec9d1a68073f4dc8bfce
   DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
   FrameAccessor: 443a13e58e23a10ff22180da0897b28c3f6abf66
   HexColors: 5f95843ef89aff6a72e1fd3a8ebabf205cc43379
@@ -45,6 +50,6 @@ SPEC CHECKSUMS:
   Toast: 32c59229abfcf41850162b83bb9259dc84372473
   ZYCornerRadius: 99f66312b00927208a80592dabf96635f9acb520
 
-PODFILE CHECKSUM: 363f63ebec8095d2cadf827ef9d0446a2ef54926
+PODFILE CHECKSUM: 4afa80cfcf875eb795d640c4e0470aba7bb12c53
 
 COCOAPODS: 1.0.0
