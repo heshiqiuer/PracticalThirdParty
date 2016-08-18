@@ -74,6 +74,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>ZipArchive.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>pop.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -82,17 +87,32 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>16DF052F58A1EC0EE882644E65FC5894</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>16FB872D0D2D4BA0F378AB34D47CF95F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>310C66A12F5C21E9F056E2152ABB8F75</key>
+		<key>3F3D5076813347E31E4D8B17902FBEF9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>410D4A2C4E8E9BCF409347D2AB09397B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6245E2B40487E13211C1CC3EEBD2EB74</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64A3F5E2F1B3AACFCA27F14855DCB231</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>72249EA127E31B69C0646554BA1924BB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -102,17 +122,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>747CA49D02A3EEC5586EDB7FBFA5616F</key>
+		<key>79404ACD61C91B1ACEFB7407901F2B33</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>7C0126D717EB28DC6DB2EEA2E20B5172</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>8A1FA1CFEE95BFD7EDE69B6A20D2E2E5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -127,7 +142,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AC4C85218604168C96AACC232744B2E0</key>
+		<key>B8BC0134378AD4AAC5977FFB926F4D9D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF589BBF2FAB295B6BB19C597DAB65D7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -137,22 +157,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C6E3C84034C7571AEF8D10342D34FED1</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>D58C2A70AFBDAF605D3FFAEBCE766463</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D787D0C32DAFD6C2238CB2ECB018481D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D81EEE24F487FA30B7C0A8668EE0568E</key>
+		<key>E1C229761FB35F9BDE493348BD4A2C89</key>
 		<dict>
 			<key>primary</key>
 			<true/>

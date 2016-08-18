@@ -21,4 +21,5 @@ target 'PracticalThirdParty' do
   pod 'pop'
   pod 'Toast'
   pod 'APAddressBook'
+  pod 'ZipArchive'
 end

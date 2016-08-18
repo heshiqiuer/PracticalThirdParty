@@ -16,6 +16,7 @@ PODS:
   - SDWebImage/Core (3.7.6)
   - SVProgressHUD (2.0.3)
   - Toast (3.0)
+  - ZipArchive (1.4.0)
   - ZYCornerRadius (0.9.1)
 
 DEPENDENCIES:
@@ -32,6 +33,7 @@ DEPENDENCIES:
   - SDWebImage
   - SVProgressHUD
   - Toast
+  - ZipArchive
   - ZYCornerRadius
 
 SPEC CHECKSUMS:
@@ -48,8 +50,9 @@ SPEC CHECKSUMS:
   SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
   SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
   Toast: 32c59229abfcf41850162b83bb9259dc84372473
+  ZipArchive: e25a4373192673e3229ac8d6e9f64a3e5713c966
   ZYCornerRadius: 99f66312b00927208a80592dabf96635f9acb520
 
-PODFILE CHECKSUM: 4afa80cfcf875eb795d640c4e0470aba7bb12c53
+PODFILE CHECKSUM: 39db6006e6994b75940e171e1b1f0301a2381b67
 
 COCOAPODS: 1.0.0
